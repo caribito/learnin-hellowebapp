@@ -1,2 +1,2 @@
 # learnin-hellowebapp
-TRinng Git, learning, nothing interesting.
+Trying Git, learning, nothing interesting.
